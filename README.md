@@ -1,0 +1,2 @@
+# ads1118_lmt70
+MDK, ADS1118AD模块, LMT70温度传感器, STM32RCT6
